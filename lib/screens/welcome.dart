@@ -29,7 +29,7 @@ class _BottomNavigationBarExampleState
   int _selectedIndex = 0;
   static const TextStyle optionStyle =
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
-      static const List<String> _pageTitles = [
+  static const List<String> _pageTitles = [
     'Anasayfa',
     'Kurumsal',
     'İletişim',
@@ -93,7 +93,6 @@ class _BottomNavigationBarExampleState
         selectedItemColor: Colors.blue,
         onTap: _onItemTapped,
       ),
-      
     );
   }
 }

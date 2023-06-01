@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sinav/screens/welcome.dart';
+import 'package:bottomnavapp/screens/welcome.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,9 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       initialRoute: "/",
-      routes: {
-        "/": (context) => const Welcome()
-      },
+      routes: {"/": (context) => const Welcome()},
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.amber,

@@ -44,6 +44,7 @@ class _CounterState extends State<Counter> {
   void resetCounter() {
     setState(() {
       counter = 0;
+      fontSize = 48;
     });
   }
 

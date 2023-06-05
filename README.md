@@ -1,7 +1,7 @@
 # flutter-bottomNavApp
 flutter app with bottom navigation bar
 
-![Screenshot_1](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/02e7e3d7-3b69-403a-aa9a-367e2751f9ab)
-![Screenshot_2](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/9f06f40b-396b-4c21-bce7-869ce8b38eae)
-![Screenshot_3](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/d474631c-a4ec-441a-8074-e967e8129943)
-![Screenshot_4](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/c3945e9a-601d-4ff2-b023-5db3b784e2b7)
+![Screenshot_1](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/9a6f6d1c-dbf2-47ea-bc0b-31ebf363ce25)
+![Screenshot_2](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/573479fd-1d10-41ff-a081-40d9ae27dd1b)
+![Screenshot_3](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/ce49a194-3240-48a8-ac07-b2602daba6ad)
+![Screenshot_4](https://github.com/cnrgks/flutter-bottomNavApp/assets/126814579/dea8713e-87ea-4377-b4c4-3cfc7edd1618)
